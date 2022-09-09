@@ -3,9 +3,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=f6c5)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🌱 I’m currently learning **hacking tools, Python and node.js**
+<h4>- 🌱 I’m currently learning **hacking tools, Python and node.js**</h4>
 
-- 💬 contact me cicekf256@gmail.com
+<h4>- 💬 contact me cicekf256@gmail.com</h4>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=f6c5&show_icons=true&locale=en&layout=compact" alt="f6c5" /></p>
