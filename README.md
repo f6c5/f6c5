@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Ferhat Çiçek</h1>
 
 
@@ -11,3 +12,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=f6c5&show_icons=true&locale=en&layout=compact" alt="f6c5" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=f6c5&show_icons=true&locale=en" alt="f6c5" /></p>
+</br>
+</br>
+<p align="center" style="font-size: 26px">===== Editing the files may take some time. wait for me!! =====</p>
