@@ -14,4 +14,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=f6c5&show_icons=true&locale=en" alt="f6c5" /></p>
 </br>
 </br>
+<p align="center">*****************************************************************************</p>
 <h3 align="center">===== Editing the files may take some time. wait for me!! =====</h3>
