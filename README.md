@@ -6,7 +6,7 @@
 
 <h4>- 🌱 I’m currently learning **hacking tools, Python and node.js**</h4>
 
-<h4>- 💬 contact me cicekf256@gmail.com</h4>
+<h4>- 💬  <a href="mailto:someone@example.com">Send email</a> </h4>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=f6c5&show_icons=true&locale=en&layout=compact" alt="f6c5" /></p>
@@ -15,4 +15,5 @@
 </br>
 </br>
 <p align="center">*****************************************************************************</p>
-<h3 align="center">===== <a href="https://f6c5.github.io/helloworld.io/" target="_blank">personal Web site</a> =====</h3>
+<h3 align="center">===== <a href="https://f6c5.github.io/helloworld.io/" title="kişisel web sitesi" target="_blank">personal Web site</a> =====</h3>
+
