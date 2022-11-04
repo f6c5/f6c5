@@ -4,7 +4,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=f6c5)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h4>- 🌱 I’m currently learning **hacking tools, Python and node.js**</h4>
+<h4>- 🌱 I’m currently learning **hacking tools, Python and node.js</h4>
 
 <h4>- 💬  <a href="mailto:someone@example.com">Send email</a> </h4>
 
