@@ -9,11 +9,11 @@
 <h4>- 💬  <a href="mailto:someone@example.com">Send email</a> </h4>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=f6c5&show_icons=true&locale=en&layout=compact" alt="f6c5" /></p>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=f6c5&show_icons=true&locale=en&layout=compact" alt="f6c5" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=f6c5&show_icons=true&locale=en" alt="f6c5" /></p>
+<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=f6c5&show_icons=true&locale=en" alt="f6c5" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=f6c5&" alt="f6c5" /></p>
+<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=f6c5&" alt="f6c5" /></p>
 
 </br>
 </br>
