@@ -5,7 +5,9 @@
       width="600px" />
   </a>
 </div>
+
 ---
+
 <div align="center">
   <a href="#"><img align="center"
       src="https://github-readme-streak-stats.herokuapp.com/?user=f6c5&theme=nord&hide_border=true&fire=azure&sideNums=azure"
@@ -16,14 +18,18 @@
       width="338px" />
   </a>
 </div>
+
 ---
+
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center"
       src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=f6c5&theme=nord_dark"/>
   </a>
 </div>
+
 ---
+
 <div align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img align="center"
@@ -41,6 +47,7 @@
       width="270px" />
   </a>
 </div>
+
 ---
 
 <div align="center">
