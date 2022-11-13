@@ -1,3 +1,38 @@
+<h1 align="center">Hi There <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" />, I'm Ferhat Çiçek</h1>
+<br><br>
+
+<table>
+  <tr>
+    <td colspan="2" align="center">👨 Persona</td>
+  </tr>
+  <tr>
+    <td>Full name</td>
+    <td>Ferhat Çiçek</td>
+  </tr>
+  <tr>
+    <td>Date of birth</td>
+    <td>16/05/2001</td>
+  </tr>
+  <tr>
+    <td>Nationality</td>
+    <td>Turkish</td>
+  </tr>
+  <tr>
+    <td>education</td>
+    <td>licence</td>
+  </tr>
+<table>
+
+<h4>- 🌱 I’m currently learning **hacking tools, Python and node.js</h4>
+
+<h4>- 💬 <a href="mailto:someone@example.com">Send email</a> </h4>
+
+---
+
+<h3 align="center">===== <a href="https://f6c5.github.io/" title="kişisel web sitesi" target="_blank">personal Web site</a> =====</h3>
+
+---
+
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center"
