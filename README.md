@@ -5,7 +5,7 @@
       width="600px" />
   </a>
 </div>
-
+---
 <div align="center">
   <a href="#"><img align="center"
       src="https://github-readme-streak-stats.herokuapp.com/?user=f6c5&theme=nord&hide_border=true&fire=azure&sideNums=azure"
@@ -16,25 +16,32 @@
       width="338px" />
   </a>
 </div>
-
+---
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center"
+      src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=f6c5&theme=nord_dark"/>
+  </a>
+</div>
+---
 <div align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img align="center"
-      src="https://raw.githubusercontent.com/f6c5/my-github-profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg"
+      src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=f6c5&theme=nord_dark"
       width="270px" />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img align="center"
-      src="https://raw.githubusercontent.com/f6c5/my-github-profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg"
+      src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=f6c5&theme=nord_dark"
       width="270px" />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img align="center"
-      src="https://raw.githubusercontent.com/f6c5/my-github-profile-summary-cards/master/profile-summary-card-output/nord_dark/4-productive-time.svg"
+      src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=f6c5&theme=nord_dark&utcOffset=8"
       width="270px" />
   </a>
 </div>
-
+---
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
