@@ -1,28 +1,44 @@
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center"
+      src="https://github-readme-stats.vercel.app/api?username=f6c5&show_icons=true&count_private=true&theme=nord&line_height=20&count_private=true&include_all_commits=true&hide_border=true"
+      width="600px" />
+  </a>
+</div>
 
-    <h1 align="center">Hi 👋, I'm Ferhat Çiçek</h1>
+<div align="center">
+  <a href="#"><img align="center"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=f6c5&theme=nord&hide_border=true&fire=azure&sideNums=azure"
+      alt="f6c5" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=f6c5&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10&include_private=true"
+      width="338px" />
+  </a>
+</div>
 
-    <h4>- 🌱 I’m currently learning **hacking tools, Python and node.js</h4>
+<div align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img align="center"
+      src="https://raw.githubusercontent.com/f6c5/my-github-profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg"
+      width="270px" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img align="center"
+      src="https://raw.githubusercontent.com/f6c5/my-github-profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg"
+      width="270px" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img align="center"
+      src="https://raw.githubusercontent.com/f6c5/my-github-profile-summary-cards/master/profile-summary-card-output/nord_dark/4-productive-time.svg"
+      width="270px" />
+  </a>
+</div>
 
-    <h4>- 💬 <a href="mailto:someone@example.com">Send email</a> </h4>
 
-
-    <p><img
-            src="https://github-profile-trophy.vercel.app/?username=f6c5&theme=darkhub&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10&include_private=true"
-            alt="f6c5" /></p>
-
-    <p><img
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=f6c5&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10&include_private=true"
-            alt="f6c5" /></p>
-
-    <p>&nbsp;<img
-            src="https://github-readme-stats.vercel.app/api/?username=f6c5&count_private=true&theme=tokyonight&showicons=true"
-            alt="f6c5" /></p>
-
-    <p><img
-            src="https://github-readme-streak-stats.herokuapp.com/?user=f6c5&theme=tokyonight&hide_border=true&fire=red&sideNums=red"
-            alt="f6c5" /></p>
-    </br>
-    </br>
-    <p>*****************************************************************************</p>
-    <h3>===== <a href="https://f6c5.github.io/" title="kişisel web sitesi" target="_blank">personal Web site</a> =====
-    </h3>
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img align="center"
+      src="https://github-profile-trophy.vercel.app/?username=f6c5&theme=nord&column=8&no-frame=true&margin-w=5" />
+  </a>
+</div>
