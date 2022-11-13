@@ -15,6 +15,8 @@
 
 <p style="float:left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=f6c5&" alt="f6c5" /></p>
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=f6c5&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 </br>
 </br>
 <p align="center">*****************************************************************************</p>
