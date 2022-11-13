@@ -1,21 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
 
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-
-<body>
-    <style>
-        body{
-            display: flex;
-            flex-direction: column;
-            place-items: center;
-        }
-    </style>
+    **assd*
     <h1>Hi 👋, I'm Ferhat Çiçek</h1>
 
 
@@ -44,8 +28,3 @@
     <p>*****************************************************************************</p>
     <h3>===== <a href="https://f6c5.github.io/" title="kişisel web sitesi" target="_blank">personal Web site</a> =====
     </h3>
-
-
-</body>
-
-</html>
