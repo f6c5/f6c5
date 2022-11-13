@@ -1,5 +1,3 @@
-
-    
     <h1>Hi 👋, I'm Ferhat Çiçek</h1>
 
 
@@ -28,4 +26,3 @@
     <p>*****************************************************************************</p>
     <h3>===== <a href="https://f6c5.github.io/" title="kişisel web sitesi" target="_blank">personal Web site</a> =====
     </h3>
-
