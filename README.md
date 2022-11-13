@@ -1,4 +1,4 @@
-<body>
+
     <style>
         body{
             display: flex;
@@ -35,5 +35,3 @@
     <h3>===== <a href="https://f6c5.github.io/" title="kişisel web sitesi" target="_blank">personal Web site</a> =====
     </h3>
 
-
-</body>
