@@ -1,11 +1,5 @@
 
-    <style>
-        body{
-            display: flex;
-            flex-direction: column;
-            place-items: center;
-        }
-    </style>
+    
     <h1>Hi 👋, I'm Ferhat Çiçek</h1>
 
 
