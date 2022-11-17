@@ -3,7 +3,7 @@
 
 <table>
   <tr>
-    <td colspan="2" align="center">👨 Persona</td>
+    <td colspan="2" align="center">👨 Personal</td>
   </tr>
   <tr>
     <td>Full name</td>
