@@ -23,7 +23,7 @@
   </tr>
 <table>
 
-<h4>- 🌱 I’m currently learning **hacking tools, Python and node.js</h4>
+<h4>- 🌱 I’m currently learning **hacking tools and react.js</h4>
 
 <h4>- 💬 <a href="mailto:someone@example.com">Send email</a> </h4>
 
