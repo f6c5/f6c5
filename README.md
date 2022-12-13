@@ -32,7 +32,7 @@
 <h3 align="center">===== <a href="https://f6c5.github.io/" title="kişisel web sitesi" target="_blank">personal Web site</a> =====</h3>
 
 ---
-
+![Profile views](https://gpvc.arturio.dev/rasnesakam)
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center"
