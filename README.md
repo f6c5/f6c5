@@ -1,17 +1,5 @@
 <h1 align="center">Hi There <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" />, I'm Ferhat Çiçek</h1>
 <br><br>
-<style>
-      .avatar-user {
-        position: absolute;
-        top: 0;
-        left: 0;
-        width: 100%;
-        height: 100%;
-        object-fit: cover;
-      display:hidden;
-      }
-</style>
-
 <table>
   <tr>
     <td colspan="2" align="center">👨 Personal</td>
