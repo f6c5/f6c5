@@ -27,10 +27,6 @@
 <h4>- 💬 <a href="mailto:someone@example.com">Send email</a> </h4>
 
 ---
-
-<h3 align="center">===== <a href="https://f6c5.github.io/" title="kişisel web sitesi" target="_blank">personal Web site</a> =====</h3>
-
----
 ![](https://komarev.com/ghpvc/?username=f6c5)
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
